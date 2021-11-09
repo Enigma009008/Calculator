@@ -1,0 +1,7 @@
+D:\Dem.ekzamen\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Dem.ekzamen\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Dem.ekzamen\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Dem.ekzamen\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Dem.ekzamen\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Dem.ekzamen\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Dem.ekzamen\Calculator\Calculator\obj\Debug\Calculator.pdb
